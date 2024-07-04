@@ -13,3 +13,5 @@ The Taxi-v3 environment is a strategic simulation, offering a grid-based arena w
 - **Rewards System:** Includes a penalty of -1 for each step taken without other rewards, +20 for successful passenger delivery, and -10 for illegal pickup or dropoff actions. Actions resulting in no operation, like hitting a wall, also incur a time step penalty.
 
 ![Taxi-v3 environment snapshot](Taxi_snap.png)
+
+All my code is written in the `notebook.ipynb` file, do check it out! and have a look at the output stored in `taxi_agent_behavior.gif`.
